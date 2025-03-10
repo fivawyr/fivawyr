@@ -2,7 +2,7 @@
 [![MasterHead](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)]()
 <h1 align="center">Hi 👋, I'm Finn</h1>
 <h3 align="center">A first-semester student of Business Information Systems</h3>
-<img align="right" alt ="Coding" width="400" src="https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif">
+<img align="right" alt ="Coding" width="400" src="[https://raw.githubusercontent.com/fate0/fate0/master/artwork/pusheencode.gif](https://x.com/Rayv3r892/status/1899235616853811481/photo/1)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fivawyr&label=Profile%20views&color=0e75b6&style=flat" alt="fivawyr" /> </p>
 
