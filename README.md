@@ -6,15 +6,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fivawyr&label=Profile%20views&color=0e75b6&style=flat" alt="fivawyr" /> </p>
 
-- 🔭 I’m currently working on **Sorting Algorithm Visualizer**
+- 🔭 I’m currently working on a **Sorting Algorithm Visualizer, Graph Algorithm Visualizer**
 
 - 🌱 I’m currently learning **DSA, Frontend Development, Technical Network**
 
 - 🤝 Goals **To grow my skills in software development and gain practical experince**
 
+- :rocket: Intended goals & interests **ML, Data Science, Website Development**
+
+
 - 📫 How to reach me **finn.github@gmail.com**
 
-- ⚡ Fun fact **Weight training, automobile and crochet nerd**
+- ⚡ Fun fact **Weight training, automobile, book and crochet nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
