@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fivawyr&label=Profile%20views&color=0e75b6&style=flat" alt="fivawyr" /> </p>
 
-- 🔭 I’m currently working on a **GUI for a aero sim, Graph Algorithm Visualizer**
+- 🔭 I’m currently working on a **GUI for our aero sim, general aero and sim knowledge and Doom**
 
-- :checkered_flag: i am currently a member of a form student team in germany and am on the Aero sub-team
+- :checkered_flag: i am currently a member of a **formular student team** in germany and am on the **aero sub-team**
 
 - 🌱 I’m currently learning **DSA, Frontend Development, and Aero Sims**
 
 - 🤝 Goals **To grow my skills in software development and gain practical experince**
 
-- :feelsgood: side projects: implementing Doom 1993 
+- :feelsgood: side projects: **implementing Doom 1993**
 
 - :rocket: Intended goals & interests **CS in Motorsport, aero sims and ECU programming**
 
