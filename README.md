@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fivawyr" alt="fivawyr" /></a> </p>
 
-- 🔭 I’m currently working on **[Qt6 GUI for our aerodynamic simulation (StarCCM+)](private formular student project)**
+- 🔭 I’m currently working on **Qt6 GUI for our aerodynamic simulation (StarCCM+), project file is in an private GitLab repo**
 
 - 🌱 I’m currently learning **Webdev, PixelArt (Asperite),DSA (as always), GitHub Actions and Project Optimization, Leetcode, Frontend Dev and Aero Sims**
 
 - 🏁 I'm currently a part time member of a **german Formular Student Team and member on the aero sub-team**
 
-- 📂 pixel art portfilio repo **[https://github.com/fivawyr/pixelArt-portfolio](https://github.com/fivawyr/pixelArt-portfolio)**
+- 📂 pixel art portfilio repo **[PixelArt Portfolio](https://github.com/fivawyr/pixelArt-portfolio)**
 
-- 🔰 private hobbys **[judo, bass & guitar, motorcycles and cars, crochet amigurumi](judo, bass & guitar, motorcycles and cars, crochet amigurumi)**
+- 🔰 private hobbys **judo, bass & guitar, motorcycles and cars, crochet amigurumi**
 
 - :feelsgood: side project **[PAUSED]** **implementing and working on Doom 1993**
 
