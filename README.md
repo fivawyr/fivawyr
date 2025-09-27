@@ -19,14 +19,14 @@
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 - 💻 Setup:
-      - ThinkPad T490s with Mint
-      - 2012 Mac with Mint
-      - 2020 MacBook Air with MacOS
+  - ThinkPad T490s with Mint 
+  - 2012 Mac with Mint
+  - 2020 MacBook Air with MacOS
 - 💾 Software:
-      - Termnal: zsh
-      - IDE's: NvChad, JetBrain ToolBox IDE's
-      - PixelArt: Aseprite and Pixsquare
-      - Other Tools: SLADE & QtCreator
+  - Termnal: zsh
+  - IDE's: NvChad, JetBrain ToolBox IDE's
+  - PixelArt: Aseprite and Pixsquare
+  - Other Tools: SLADE & QtCreator
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 - 🚀 goals & interests **CS in Motorsport, aero sims, ECU programming, Frontend**
