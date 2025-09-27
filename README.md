@@ -17,7 +17,21 @@
 
 - :feelsgood: side project **[PAUSED]** **implementing and working on Doom 1993**
 
+-----------------------------------------------------------------------------------------------------------------------------------------
+- 💻 Setup:
+      - ThinkPad T490s with Mint
+      - 2012 Mac with Mint
+      - 2020 MacBook Air with MacOS
+- 💾 Software:
+      - Termnal: zsh
+      - IDE's: NvChad, JetBrain ToolBox IDE's
+      - PixelArt: Aseprite and Pixsquare
+      - Other Tools: SLADE & QtCreator
+-----------------------------------------------------------------------------------------------------------------------------------------
+
 - 🚀 goals & interests **CS in Motorsport, aero sims, ECU programming, Frontend**
+
+- 🎧 music taste **Metal & Rock, Lofi, 90s Rap**
 
 - 📫 How to reach me **finn.github@gmail.com**
 
