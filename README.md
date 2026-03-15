@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fivawyr&label=Profile%20views&color=0e75b6&style=flat" alt="fivawyr" /> </p>
 
-- 🌱 I’m currently learning **Webdev, PixelArt (Asperite),DSA (as always), GitHub Actions and Project Optimization, Leetcode, Frontend Dev and Aero Sims**
+- 🌱 I’m currently learning **Motorsport Engineering Basics**, **Performance Engineering Tools**, **working on a case study for two projects (aeromapping/post CFD & Performance Engineering Tool)**, **C++**
 
 - 🏁 I'm currently a part time member of a **german Formular Student Team and member on the aero sub-team**
 
