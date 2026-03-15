@@ -7,8 +7,6 @@
 
 - 🏁 I'm currently a part time member of a **german Formular Student Team and member on the aero sub-team**
 
-- 📂 pixel art portfilio repo **[PixelArt Portfolio](https://github.com/fivawyr/pixelArt-portfolio)**
-
 - 🔰 private hobbys **judo, bass & guitar, motorcycles and cars, crochet amigurumi**
 
 - :feelsgood: side project **[PAUSED]** **implementing and working on Doom 1993**
