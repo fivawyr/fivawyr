@@ -1,9 +1,7 @@
-<h1 align="center">Hi/Servus 👋, I'm Finn :)</h1>
+<h1 align="center">Hi/Servus, I'm Finn :)</h1>
 <h3 align="center">A Computer Science "Dual-Study-Program" student, former junior Business Information Systems student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fivawyr&label=Profile%20views&color=0e75b6&style=flat" alt="fivawyr" /> </p>
-
-- 🔭 I’m currently working on **Qt6 GUI for our aerodynamic simulation (StarCCM+), project file is in an private GitLab repo**
 
 - 🌱 I’m currently learning **Webdev, PixelArt (Asperite),DSA (as always), GitHub Actions and Project Optimization, Leetcode, Frontend Dev and Aero Sims**
 
@@ -27,9 +25,7 @@
   - Other Tools: SLADE & QtCreator
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-- 🚀 goals & interests **CS in Motorsport, aero sims, ECU programming, Frontend**
-
-- 🎧 music taste **Metal & Rock, Lofi, 90s Rap**
+- 🚀 goals & interests **CS in Motorsport, Performance Engineering, ECU programming**
 
 - 📫 How to reach me **finn.github@gmail.com**
 
