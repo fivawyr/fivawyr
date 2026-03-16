@@ -8,11 +8,7 @@
 - 🐳 Current Projects: **Performance F1 Analyse Tool (by using modularity, we are able to reuse it for LMP and other race series)**, **(Upcoming) Post CFD - Aeromapping Tool (also reusable for different race series)** &rarr; Upcoming case study for analysing my results
 
 - 🏁 I'm currently a part time member of a **german Formular Student Team and member on the aero sub-team**
-
-- 🔰 private hobbys **judo, bass & guitar, motorcycles and cars, crochet amigurumi**
-
-- :feelsgood: side project **[PAUSED]** **implementing and working on Doom 1993**
-
+- 
 -----------------------------------------------------------------------------------------------------------------------------------------
 - 💻 Setup:
   - ThinkPad T490s with Mint 
