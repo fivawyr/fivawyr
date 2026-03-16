@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **Motorsport Engineering Basics**, **Performance Engineering Tools**, **working on a case study for two projects (aeromapping/post CFD & Performance Engineering Tool)**, **C++**
 
+- 🐳 Current Projects: **Performance F1 Analyse Tool (by using modularity, we are able to reuse it for LMP and other race series)**, **(Upcoming) Post CFD - Aeromapping Tool (also reusable for different race series)** &rarr; Upcoming case study for analysing my results
+
 - 🏁 I'm currently a part time member of a **german Formular Student Team and member on the aero sub-team**
 
 - 🔰 private hobbys **judo, bass & guitar, motorcycles and cars, crochet amigurumi**
@@ -18,9 +20,8 @@
   - 2020 MacBook Air with MacOS
 - 💾 Software:
   - Termnal: zsh
-  - IDE's: NvChad, JetBrain ToolBox IDE's
-  - PixelArt: Aseprite and Pixsquare
-  - Other Tools: SLADE & QtCreator
+  - IDE's: NvChad, VSCode
+  - Other Tools: SLADE, Celonis & QtCreator
 -----------------------------------------------------------------------------------------------------------------------------------------
 
 - 🚀 goals & interests **CS in Motorsport, Performance Engineering, ECU programming**
