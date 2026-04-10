@@ -3,21 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fivawyr&label=Profile%20views&color=0e75b6&style=flat" alt="fivawyr" /> </p>
 
-- 🌱 I’m currently learning **Motorsport Engineering Basics**, **Performance Engineering Tools**, **working on a case study for two projects (aeromapping/post CFD & Performance Engineering Tool)**, **C++**
+- 🌱 I'm currently learning **Motorsport Engineering Basics**, **Performance Engineering Tools**, **working on a case study for two projects (aeromapping/post CFD & Performance Engineering Tool)**, **C++**
 
 - 🐳 Current Projects: **Performance F1 Analyse Tool (by using modularity, we are able to reuse it for LMP and other race series)**, **(Upcoming) Post CFD - Aeromapping Tool (also reusable for different race series)** &rarr; Upcoming case study for analysing my results
 
 - 🏁 I'm currently a part time member of a **german Formular Student Team and member on the aero sub-team**
------------------------------------------------------------------------------------------------------------------------------------------
+
+---
+
 - 💻 Setup:
   - ThinkPad T490s with Mint 
   - 2012 Mac with Mint
   - 2020 MacBook Air with MacOS
 - 💾 Software:
-  - Termnal: zsh
-  - IDE's: NvChad, VSCode
+  - Terminal: zsh
+  - IDEs: NvChad, VSCode
   - Other Tools: SLADE, Celonis & QtCreator
------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 - 🚀 goals & interests **CS in Motorsport, Performance Engineering, ECU programming**
 
@@ -28,6 +31,10 @@
 <a href="https://discord.gg/Rayv3r#8030" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rayv3r#8030" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fivawyr&" alt="fivawyr" /></p>
-[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=fivawyr)](https://github.com/fivawyr/beautiful-github-homepage)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fivawyr&theme=dark" alt="fivawyr" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fivawyr&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+</p>
