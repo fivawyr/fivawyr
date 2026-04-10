@@ -29,6 +29,5 @@
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fivawyr&" alt="fivawyr" /></p>
-<a href="https://github.com/fivawyr"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=ishandutta2007&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
-
+[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=fivawyr)](https://github.com/fivawyr/beautiful-github-homepage)
 
