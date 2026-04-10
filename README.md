@@ -34,7 +34,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fivawyr&theme=dark" alt="fivawyr" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fivawyr&layout=compact&theme=dark&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
-</p>
