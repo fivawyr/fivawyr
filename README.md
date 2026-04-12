@@ -9,7 +9,7 @@
 
 - 🏁 Look forward to join Formula Student/SAE again
 
-- 📫 How to reach me **finn.github@gmail.com**
+- 📫 How to reach me **finn.github@gmail.com**, **[Codeforce](https://codeforces.com/profile/fivawyr)**
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fivawyr&theme=dark" alt="fivawyr" />
