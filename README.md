@@ -1,6 +1,6 @@
-<h3 align="center">Fast cars go brrrr</h3>
+<h3 align="center">Scientific Computing, Simulation and everything which lays on its path brrrr</h3>
 
-- Want to make fancy non-lineare, bifurcation & chaotic simulations &rarr; head into QC for research works 
+- Want to make non-lineare, bifurcation & chaotic simulations &rarr; head into QC for research works. I try to avoid vibecoding as good as possible &rarr; leads into lower quantity but higher fun & rewards 
 
 - Current Projects: **Raycasting & Basics of graphical computing**, **(Upcoming) Post CFD - Aeromapping Tool (also reusable for different race series), doing this from scratch, lets talk again in 2 years** &rarr; Upcoming case study for analysing my results (yuhu)
 
